@@ -114,7 +114,7 @@ door.open();
 //  action 2:    the door closes
 door.close();
 //  action 3:    the door jams
-door.jam()
+door.jam();
 //  9)
 //  Noun:        car
 //  action 1:    the car accelerates
@@ -124,13 +124,13 @@ car.break();
 //  action 3:    the car overheats
 car.overheat();
 //  10)
-//  Noun:        bus
-//  action 1:    the bus makes its wheels go round and round
-bus.makeWheelsGoRoundAndRound();
-//  action 2:    the bus goes to the stop
-bus.goToStop();
-//  action 3:    the bus stops at the stop
-bus.stop();
+//  Noun:        cpp programmer
+//  action 1:    the cpp programmer completes Project 1
+cppProgrammer.completeProject1();
+//  action 2:    the cpp programmer makes a pull request
+cppProgrammer.makePullRequest();
+//  action 3:    the cpp programmer revises the code
+cppProgrammer.reviseCode();
 
 
 #endif
