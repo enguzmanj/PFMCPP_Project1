@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        tvRemote
+//  action 1:    the tv remote turns on the tv
+tvRemote.turnOnTv();
+//  action 2:    the tv remote increases the tv volume
+tvRemote.increaseTvVolume();
+//  action 3:    the tv remote opens Netflix
+tvRemote.openNetflix();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        cat
+//  action 1:    the cat meows
+cat.meow();
+//  action 2:    the cat scratches the curtains
+cat.scratchCurtains();
+//  action 3:    the cat purrs
+cat.purr();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        baby
+//  action 1:    the baby cries
+baby.cry();
+//  action 2:    the baby screams
+baby.scream();
+//  action 3:    the baby laughs
+baby.laugh();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        cpp compiler
+//  action 1:    the cpp compiler compiles the code
+cppCompiler.compileCode();
+//  action 2:    the cpp compiler raises an error
+cppCompiler.raiseError();
+//  action 3:    the cpp compiler crashes
+cppCompiler.crash();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        clown
+//  action 1:    the clown makes kids laugh
+clown.makeKidsLaugh();
+//  action 2:    the clown makes a balloon animal
+clown.makeBalloonAnimal();
+//  action 3:    the clown sings songs
+clown.singSong();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        Bugs Bunny
+//  action 1:    Bugs Bunny says What's up Doc
+bugsBunny.sayWhatsUpDoc();
+//  action 2:    Bugs Bunny tells a joke
+bugsBunny.tellJoke();
+//  action 3:    Bugs Bunny does a gag
+bugsBunny.doGag();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        lemon
+//  action 1:    the lemon gives lemon juice
+lemon.giveJuice();
+//  action 2:    the lemon makes people flinch
+lemon.makePersonFlinch();
+//  action 3:    the lemon ripens
+lemon.ripen();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        door
+//  action 1:    the door opens
+door.open();
+//  action 2:    the door closes
+door.close();
+//  action 3:    the door jams
+door.jam()
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        car
+//  action 1:    the car accelerates
+car.accelerate();
+//  action 2:    the car breaks
+car.break();
+//  action 3:    the car overheats
+car.overheat();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        bus
+//  action 1:    the bus makes its wheels go round and round
+bus.makeWheelsGoRoundAndRound();
+//  action 2:    the bus goes to the stop
+bus.goToStop();
+//  action 3:    the bus stops at the stop
+bus.stop();
 
 
 #endif
